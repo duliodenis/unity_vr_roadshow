@@ -3,6 +3,8 @@ This is the Unity VR Roadshow starter project entitled Viking Quest VR. Note tha
 
 ![](art/VikingQuestVR.png?raw=true)
 
+View [the road show slides](/slides/VikingQuestVR_Cycles_DM.pptx.pdf) for a step by step walkthrough of the workshop.
+
 ### Licensing
 The Unity VR Roadshow is licensed under [the MIT License](LICENSE).
 
