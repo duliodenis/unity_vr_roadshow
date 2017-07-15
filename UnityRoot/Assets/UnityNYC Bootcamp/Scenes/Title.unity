@@ -1909,9 +1909,9 @@ MonoBehaviour:
   autoManageVRSettings: 1
   autoLoadSetup: 1
   setups:
+  - {fileID: 1777749215}
   - {fileID: 1777749213}
   - {fileID: 1777749216}
-  - {fileID: 1777749215}
 --- !u!4 &1576442760
 Transform:
   m_ObjectHideFlags: 0

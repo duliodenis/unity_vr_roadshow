@@ -5,6 +5,8 @@ This contains both the Beginner Unity VR Roadshow starter project entitled Vikin
 
 View [the road show slides](/slides/VikingQuestVR_Cycles_DM.pptx.pdf) for a step by step walkthrough of the first workshop.
 
+View the [the VR Desktop Bootcamp](/slides/Unity_VR_Desktop_Bootcamp_Mod-Adv_Slides.pdf) for a step by step walkthrough of the second workshop.
+
 ### Licensing
 The Unity VR Roadshow is licensed under [the MIT License](LICENSE).
 
